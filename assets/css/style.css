@@ -1,0 +1,41 @@
+.jumbotron{
+    text-align: center;
+    background-color: #2a4164;
+    color: #fff;
+}
+
+.card-header {
+    background-color: #2a4164;
+    color: #fff;
+    border-color: #2a4164;
+}
+
+.card {
+    background-color: #bbcde9;
+    border-color: #bbcde9;
+}
+
+
+.btn-primary {
+    background-color: #2a4164;
+    border-color: #2a4164;
+}
+
+.btn-primary:hover{
+    background-color: #223450;
+    border-color: #223450;
+}
+
+thead {
+    border: none;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th{
+    background-color: #223450;
+    border-color: #223450;
+    color: #fff;
+}
+
+.table td, .table th {
+    border: none;
+}
